@@ -1,6 +1,6 @@
 # React 홈페이지
 
-[Link](https://yeodahui.github.io/react_practice/)
+[Link](https://yeodahui.github.io/react_practice/build/index.html)
 
 ### 어려웠던 점
 
