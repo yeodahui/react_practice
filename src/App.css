@@ -1,0 +1,46 @@
+body {
+  font-size: 14px;
+}
+
+header,
+footer {
+  padding: 10px;
+  background-color: #20232a;
+  color: #eee;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+main {
+  margin-top: 50px;
+  padding: 10px;
+}
+
+h1 {
+  float: left;
+  color: #62dafc;
+  margin-right: 10px;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+nav ul {
+  display: flex;
+}
+
+li {
+  color: white;
+  margin-right: 5px;
+}
